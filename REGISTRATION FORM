@@ -6,3 +6,30 @@
    {
     background-color:black;
    }
+    td,th
+    {
+   color:red;
+   }
+   h1
+   {
+   color:white;
+   }
+ </style>
+</head>
+    <body>
+      <h1>REGISTRATION FORM</h1>
+ <p>PLEASE FILL THIS FORM</p>
+ <tr>
+  <th>NAME:</th>
+  <td><input type="text" placeholder="ENTER YOUR NAME"></td>
+ </tr>
+ <tr>
+ <th>EMAIL:</th>
+ <td><input type="email" placeholder="ENTER YOUR EMAIL"></td>
+</tr>
+<tr>
+  <th>PASSWORD:</th>
+  <td><input type="PASSWORD"placeholder="ENTER YOUR PASSWORD"></td>
+ </tr>
+</body>
+</html>
