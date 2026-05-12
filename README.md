@@ -103,13 +103,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Skills at a Glance
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvenPatel&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvenPatel&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-Intermediate-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-Learning-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n%20Automation-Beginner-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
