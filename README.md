@@ -49,7 +49,7 @@
 
 ## 📌 Featured Projects
 
-### 🏥 [CareVox – AI Healthcare Agent](https://github.com/DhruvenPatel/CareVox)
+### 🏥 [CareVox – AI Healthcare Agent](https://ai-medical-voice-agent-fyxg.vercel.app/)
 > AI-powered voice healthcare platform enabling real-time patient interaction through speech-to-text and conversational AI.
 
 - 🎤 Speech-to-text processing with **AssemblyAI**
