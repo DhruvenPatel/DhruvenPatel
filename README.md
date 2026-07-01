@@ -119,7 +119,7 @@
 ## 📬 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-dp3857772%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dp3857772@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruven%20Patel-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruven-patel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruven%20Patel-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruven-patel-aa4459229/)
 [![Location](https://img.shields.io/badge/Location-Navsari%2C%20India-0F6E56?style=flat&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Navsari,India)
 
 > 💬 **I'm actively looking for Junior AI / Software Developer opportunities in Dubai or remote.**
